@@ -5,7 +5,7 @@
 
 It's a Tool For MultiBrute FaceBook Accounts Without PassWordlists
 # Note!
-##This tool is Only Made For Educational Purposes
+## This tool is Only Made For Educational Purposes
 # Cracker Tool
 Facebook Accounts Fast cracker
 
