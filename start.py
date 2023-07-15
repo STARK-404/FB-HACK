@@ -48,18 +48,18 @@ if choose == '0' or choose == '00':
 	exit();
 if choose == '2' or choose == '02':
 	print("[bold green]Redirecting....")
-	os.system("xdg-open https://instagram.com/mr_lalu_1232/")
+	os.system("xdg-open https://instagram.com/la1uuuuu/")
 	exit();
 	
 def inner():
 	web = input("\x1b[92m Press(y/\x1b[91mn\x1b[92m)    :  ")
 	if web == 'y':
-		os.system("xdg-open 'http://starkstore.42web.io/stark.html' ")
+		os.system("xdg-open 'https://instagram.com/la1uuuuu' ")
 		print("[italic green] Happy Buying !! Thankz \n Read Full Instruction !!")
 		exit();
 	else:
 			print("[italic blue] Contact Admin !! \n You will be Redirected to Admin")
-			os.system("xdg-open https://instagram.com/mr_lalu_1232/")
+			os.system("xdg-open https://instagram.com/la1uuuuu")
 			exit();
 if choose == '1' or choose == '01':
 	os.system("clear")
