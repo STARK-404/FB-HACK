@@ -74,7 +74,7 @@ python3 Run.py
 + Kali
 [view Screenshot](http://starkstore.42web.io/screenshot.png)
 # Support
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/mr_lalu_1232?igshid=YmMyMTA2M2Y=)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/la1uuuuu?igshid=YmMyMTA2M2Y=)
 
 ![Discord](https://dcbadge.vercel.app/api/shield/880701719141572618)
 # Note 
