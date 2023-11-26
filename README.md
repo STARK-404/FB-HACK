@@ -1,7 +1,7 @@
 # FB-MBF
 
 
-<img title="Language" src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?v=1036467652f4d616465253230776974682d426173682d3166343235662e7376673f763d313033"></a>
+![python](https://img.shields.io/badge/Python-3.9-3776AB.svg?)
 
 It's a Tool For MultiBrute FaceBook Accounts Without PassWordlists
 
