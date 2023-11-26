@@ -1,5 +1,5 @@
 # FB-MBF
-![Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7wyybPj8XKYhGZboQ-VdZtUr5b01oKclALvj9pX98Ng&usqp=CAU&ec=48665701)
+
 
 <img title="Language" src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?v=1036467652f4d616465253230776974682d426173682d3166343235662e7376673f763d313033"></a>
 
