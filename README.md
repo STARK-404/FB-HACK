@@ -24,7 +24,7 @@ apt update && apt upgrade
 pkg install python
 pkg install git
 git clone https://github.com/STARK-404/FB-HACK/
-cd MBF
+cd FB-HACK 
 pip install -r requirments.txt
 python Run.py
 ```
@@ -33,7 +33,7 @@ python Run.py
 sudo apt update && sudo apt upgrade
 sudo apt install python3
 git clone https://github.com/STARK-404/FB-HACK/
-cd FB-MBF
+cd FB-HACK 
 pip install -r requirements.txt
 python3 Run.py
 ```
