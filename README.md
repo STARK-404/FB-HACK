@@ -4,8 +4,7 @@
 <img title="Language" src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?v=1036467652f4d616465253230776974682d426173682d3166343235662e7376673f763d313033"></a>
 
 It's a Tool For MultiBrute FaceBook Accounts Without PassWordlists
-# Note!
-## This tool is Only Made For Educational Purposes
+
 # Cracker Tool
 Facebook Accounts Fast cracker
 
@@ -13,7 +12,27 @@ Facebook Accounts Fast cracker
  
 This is a tool that will help you crack Facebook account very quickly.  You also need a token to run this tool.  You will understand how to get it when you run the tool
 
-#
+# Installation
+## Termux
+```
+
+apt update && apt upgrade
+pkg install python
+pkg install git
+git clone https://github.com/STARK-404/FB-MBF/
+cd MBF
+pip install -r requirments.txt
+python Run.py
+```
+## Linux
+```
+sudo apt update && sudo apt upgrade
+sudo apt install python3
+git clone https://github.com/STARK-404/FB-MBF/
+cd FB-MBF
+pip install -r requirements.txt
+python3 Run.py
+```
 
 # Tool Requirements 
 
@@ -47,27 +66,7 @@ This is a tool that will help you crack Facebook account very quickly.  You also
 <a href="https://github.com/STARK-404/"><img title="Github" src="https://img.shields.io/badge/STARK-404-brightgreen?style=for-the-badge&logo=github"></a>
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/la1uuuuu?igshid=YmMyMTA2M2Y=)
 
-# Installation
-### Termux
-```
 
-apt update && apt upgrade
-pkg install python
-pkg install git
-git clone https://github.com/STARK-404/FB-MBF/
-cd MBF
-pip install -r requirments.txt
-python Run.py
-```
-## Linux
-```
-sudo apt update && sudo apt upgrade
-sudo apt install python3
-git clone https://github.com/STARK-404/FB-MBF/
-cd FB-MBF
-pip install -r requirements.txt
-python3 Run.py
-```
 ## Screenshot
 + Termux 
 [View Screenshot](http://starkstore.42web.io/Screenshot.termux.png)
