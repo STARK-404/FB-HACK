@@ -85,7 +85,7 @@ _Don't Try to Crack Bit**hes_
 
 # WARNING
 
-***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases. AND When You Buy This Tool No Money Refund Available!!!***
+***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.**
 
 ### Support Me 
 
