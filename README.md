@@ -14,7 +14,8 @@ Facebook Accounts Fast cracker
 
 # Facebook Account Cracking Tool
  
-This is a tool that will help you crack Facebook account very quickly.  You also need a token to run this tool.  You will understand how to get it when you run the tool
+This is a tool that will help you crack Facebook account very without Password List!.
+
 
 # Installation
 ## Termux
