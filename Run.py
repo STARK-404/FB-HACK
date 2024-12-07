@@ -1,7 +1,7 @@
 #pip install pycryptodome  , It works only v3.11 Above.
 from rich import print
 import random ,os , sys,base64,codecs,zlib;pyobfuscate=""
-
+#gamerunknown509@gmail.com
 os.system('clear')
 print('[bold green] Follow Me On GitHub To Use ')
 
